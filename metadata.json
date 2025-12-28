@@ -1,0 +1,8 @@
+{
+  "name": "Copy3 of PandaClass AI",
+  "description": "A multiplayer Chinese language learning platform with an AI teacher, focusing on speaking, reading, and writing with real-time feedback.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
